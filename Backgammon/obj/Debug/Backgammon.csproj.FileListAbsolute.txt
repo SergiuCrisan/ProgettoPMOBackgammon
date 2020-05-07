@@ -1,0 +1,9 @@
+C:\Users\Sergiu\source\repos\Backgammon\Backgammon\bin\Debug\Backgammon.exe.config
+C:\Users\Sergiu\source\repos\Backgammon\Backgammon\bin\Debug\Backgammon.exe
+C:\Users\Sergiu\source\repos\Backgammon\Backgammon\bin\Debug\Backgammon.pdb
+C:\Users\Sergiu\source\repos\Backgammon\Backgammon\obj\Debug\Backgammon.csprojAssemblyReference.cache
+C:\Users\Sergiu\source\repos\Backgammon\Backgammon\obj\Debug\Backgammon.Backgammon.resources
+C:\Users\Sergiu\source\repos\Backgammon\Backgammon\obj\Debug\Backgammon.Properties.Resources.resources
+C:\Users\Sergiu\source\repos\Backgammon\Backgammon\obj\Debug\Backgammon.csproj.GenerateResource.cache
+C:\Users\Sergiu\source\repos\Backgammon\Backgammon\obj\Debug\Backgammon.exe
+C:\Users\Sergiu\source\repos\Backgammon\Backgammon\obj\Debug\Backgammon.pdb
